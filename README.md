@@ -1,9 +1,9 @@
 ### Oi, eu sou o Iuri Paiva! 👋
 
-- 🔭 Atualmente trabalho na área de suporte
-- 🌱 Estou aprendendo front-end para me profissionalizar na área
-- 📫 E-mail para contato: iuripaiva27@gmail.com
 - 😄 Pronouns: Ele/dele
+- 🔭 Atualmente não estou trabalhando
+- 🌱 Estou aprendendo Front-End para me profissionalizar na área e entrar no mercado
+- 📫 E-mail para contato: iuripaiva27@gmail.com
    
   ##
  
