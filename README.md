@@ -1,7 +1,7 @@
 ### Oi, eu sou o Iuri Paiva! 👋
 
 - 😄 Pronouns: Ele/dele
-- 🔭 Atualmente não estou trabalhando
+- 🔭 Atualmente não estou trabalhando e estou aproveitando este tempo para me aperfeiçoar estudando
 - 🌱 Estou aprendendo Front-End para me profissionalizar na área e entrar no mercado
 - 📫 E-mail para contato: iuripaiva27@gmail.com
    
