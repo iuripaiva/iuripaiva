@@ -8,63 +8,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: ubuntu-# This is a basic workflow to help you get started with Actions
-2
-​
-3
-name: CI
-4
-​
-5
-# Controls when the workflow will run
-6
-on:
-7
-  # Triggers the workflow on push or pull request events but only for the main branch
-8
-  push:
-9
-    branches: [ main ]
-10
-  pull_request:
-11
-    branches: [ main ]
-12
-​
-13
-  # Allows you to run this workflow manually from the Actions tab
-14
-  workflow_dispatch:
-15
-​
-16
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-17
-jobs:
-18
-  # This workflow contains a single job called "build"
-19
-  build:
-20
-    # The type of runner that the job will run on
-21
     runs-on: ubuntu-latest
-22
-​
-23
-    # Steps represent a sequence of tasks that will be executed as part of the job
-24
-    steps:
-25
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-26
-      - uses: actions/checkout@v2
-27
-​
-28
-      # Runs a single command using the runners shell
-29
-      - name: Run a one-line scriptlatest
     steps:
       # Snake Animation
       - uses: Platane/snk@master
@@ -79,3 +23,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
