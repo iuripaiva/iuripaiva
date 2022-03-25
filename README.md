@@ -1,6 +1,6 @@
 👾 *Hi! My name is **Iuri Paiva**! I'm studying **Information Systems** at **Fundação Educacional Unificada Campograndense (FEUC)**, and my goal is to work with **Web Development**.*  
   
-📖 *Skills:* **HTML, CSS, JavaScript**.  
+📖 *Skills:* **HTML, CSS, JavaScript, Python**.  
   
 🛠 *Tools:* **Figma, VS Code, Vercel, GitHub**.  
   
