@@ -1,8 +1,8 @@
-👾 *Oi, meu nome é **Iuri Paiva**! Estou estudando **Sistemas de Informação** na **Fundação Educacional Unificada Campograndense (FEUC)**, e busco seguir carreira na área de **Front-End**.*  
+👾 *Hi! My name is **Iuri Paiva**! I'm studying **Information Systems** at **Fundação Educacional Unificada Campograndense (FEUC)**, and my aim is to work with **Front-End**.*  
   
-📖 *Habilidades:* **HTML, CSS, JavaScript**.  
+📖 *Skills:* **HTML, CSS, JavaScript**.  
   
-🛠 *Ferramentas:* **Figma, VS Code, Vercel, GitHub**.  
+🛠 *Tools:* **Figma, VS Code, Vercel, GitHub**.  
   
    
   ##
