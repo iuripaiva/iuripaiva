@@ -2,7 +2,7 @@
   
 📖 *Skills:* **HTML, CSS, JavaScript, Python**.  
   
-🛠 *Ferramentas:* **Figma, VS Code, Vercel, GitHub**.  
+🛠 *Ferramentas:* **Figma, VS Code, Vercel, Git, GitHub**.  
   
    
   ##
