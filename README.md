@@ -1,6 +1,6 @@
 👾 *Oi! Meu nome é **Iuri Paiva**! Estou estudando **Sistemas de Informação** na **Fundação Educacional Unificada Campograndense (FEUC)**, e meu objetivo é trabalhar com **Desenvolvimento Web**.*  
   
-📖 *Skills:* **HTML, CSS, JavaScript, PHP, SQL, Python, **.  
+📖 *Skills:* **HTML, CSS, JavaScript, PHP, SQL, Python**.  
   
 🛠 *Ferramentas:* **Figma, VS Code, Vercel, Git, GitHub**.  
   
