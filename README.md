@@ -6,7 +6,7 @@
   
    </br></br>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iuripaiva&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuripaiva&hide=hack&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuripaiva&layout=compact&langs_count=7&theme=ayu-mirage"/>
   
 </div>
   
