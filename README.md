@@ -1,6 +1,6 @@
   <a href="https://github.com/iuripaiva">
   
-  ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=D2B270&size=30&center=true&vCenter=true&width=1000&lines=Hey,+welcome!;I'm+Iuri+Paiva;I'm+27+years+old;Bachelor+in+Information+Systems;Focusing+on+the+Web+Dev+area!)
+  ![Apresentação](https://readme-typing-svg.herokuapp.com/?color=D2B270&size=30&center=true&vCenter=true&width=1000&lines=Hey,+welcome!;I'm+Iuri+Paiva;Bachelor+in+Information+Systems;Focusing+on+the+Web+Dev+area!)
   
 <div align="center">
   
