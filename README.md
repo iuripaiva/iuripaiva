@@ -26,7 +26,7 @@
   </div>
   </br></br>
   
-## 🛠Ferramentas
+## 🛠Tools
   
   <div style="display: inline_block"><br>
      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">Figma |
